@@ -492,6 +492,7 @@ opacity: 1;
     right: 10px;
     top: 10px;
     cursor: pointer;
+    z-index: 20;
 }
 
 .modal-close:hover{
